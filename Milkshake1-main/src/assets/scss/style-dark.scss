@@ -1,0 +1,72 @@
+.active-dark-mode{
+  .banner-heading {
+    background: linear-gradient(
+      95.4deg,
+      #fdfdff 0.42%,
+      #f73f8d 41.52%,
+      #e3e3e7 81.5%
+    );
+    font-size: 55px;
+    text-align: left;
+    font-weight: 500;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent; 
+  }
+  
+  .world-heading {
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 78px;
+    letter-spacing: 0.01em;
+  
+    background: linear-gradient(
+      90.6deg,
+      #ffffff 1.71%,
+      rgba(254, 253, 255, 0) 162.74%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+
+  .coin-heading {
+    background: linear-gradient(
+      93.4deg,
+      #eeedf3 1.86%,
+      rgba(255, 16, 116, 0.7) 92.29%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 59px;
+    letter-spacing: 0.01em;
+  }
+
+  .ref-heading {
+    background: linear-gradient(
+      93.4deg,
+      #f7f6f8 1.86%,
+      rgba(255, 16, 116, 0.7) 92.29%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 49px;
+    letter-spacing: 0.01em;
+  }
+  
+    .footer a {
+    color: #fff;
+  }
+}

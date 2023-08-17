@@ -1,0 +1,46 @@
+
+/*=======================================================================
+1. Default Styles
+=========================================================================*/
+@import "default/variable";
+@import "default/reset";
+@import "default/typography";
+@import "default/form";
+@import "default/classes";
+
+/*=======================================================================
+2. Elements Styles
+=========================================================================*/
+// @import "elements/animate";
+// @import "elements/back-top";
+@import "elements/breadcrumb";
+// @import "elements/button";
+@import "elements/section-heading";
+// @import "elements/slick";
+
+/*=======================================================================
+3. Template Styles
+=========================================================================*/
+// @import "template/banner";
+// @import "template/project";
+// @import "template/service";
+// @import "template/common-pages";
+// @import "template/splash.scss";
+
+/*=======================================================================
+4.Blocks Styles 
+=========================================================================*/
+@import "header/header";
+@import "footer/footer";
+
+/*=======================================================================
+5. Dark Style 
+=========================================================================*/
+@import "dark-style/dark-version";
+
+/*=======================================================================
+6. Spacing 
+=========================================================================*/
+@import "default/spacing";
+
+
